@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5958
     wikipedia: http://en.wikipedia.org/wiki/Henri_Poincaré
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37157#Science-and-hypothesis
 gutenberg_bookshelf:
 - Physics
 - Mathematics
