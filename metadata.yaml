@@ -1,0 +1,56 @@
+_repo: Science-and-hypothesis_37157
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Larmor, Joseph
+    alias: Larmor, Joseph, Sir
+    birthdate: 1857
+    deathdate: 1942
+    gutenberg_agent_id: '38620'
+    url: http://www.gutenberg.org/2009/agents/38620
+  translator:
+    agent_name: Greenstreet, W. J. (William John)
+    alias: Greenstreet, William John
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '44904'
+    url: http://www.gutenberg.org/2009/agents/44904
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poincaré, Henri
+    aliases:
+    - Poincaré, H. (Henri)
+    - Poincaré, Jules Henri
+    - Poincare, Henri
+    birthdate: 1854
+    deathdate: 1912
+    gutenberg_agent_id: '5958'
+    url: http://www.gutenberg.org/2009/agents/5958
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Poincaré
+description: ''
+gutenberg_bookshelf:
+- Physics
+- Mathematics
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37157'
+  lccn: '06001443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Philosophy'
+- !lcsh 'Mathematics -- Philosophy'
+- !lcc 'Q'
+tableOfContents: 'Number and magnitude: On the nature of mathematical reasoning. Mathematical
+  magnitude and experiment -- Space: Non-Euclidean geometries. Space and geometry.
+  Experiment and geometry -- Force: The classical mechanics. Relative and absolute
+  motion. Energy and thermo-dynamics -- Nature: Hypotheses in physics. The theories
+  of modern physics. The calculus of probabilities. Optics and electricity. Electro-dynamics.'
+title: Science and hypothesis
+url: http://www.gutenberg.org/ebooks/37157
