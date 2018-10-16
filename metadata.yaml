@@ -49,6 +49,7 @@ subjects:
 - !lcsh 'Science -- Philosophy'
 - !lcsh 'Mathematics -- Philosophy'
 - !lcc 'Q'
+- GITenberg
 tableOfContents: 'Number and magnitude: On the nature of mathematical reasoning. Mathematical
   magnitude and experiment -- Space: Non-Euclidean geometries. Space and geometry.
   Experiment and geometry -- Force: The classical mechanics. Relative and absolute
